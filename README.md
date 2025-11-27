@@ -7,8 +7,9 @@
 5. Visual Studio Code
 6. Railway VSCode 拡張機能
 
-上記をインストールなどする必要があります。
-[Railway 準備編](https://www.notion.so/techbowl/Railway-ceba695d5014460e9733c2a46318cdec) をご確認いただき、挑戦の準備をしましょう。
+上記 4 つをインストールする必要があります。インストールできているかの確認やインストール方法は、
+[Railway 準備編](https://techbowl.notion.site/Railway-ceba695d5014460e9733c2a46318cdec) をご確認いただき、挑戦の準備をしましょう。
+
 ※ GitHub Codespaces についての資料はスキップしてください。
 
 その他リポジトリの更新の仕方や、トラブルシューティングについても上記の Railway 準備編にございます。
